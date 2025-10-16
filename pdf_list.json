@@ -1,0 +1,752 @@
+[
+    {
+        "name": "Aparatur Sipil Negara",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Aparatur%20Sipil%20Negara.pdf"
+    },
+    {
+        "name": "Bantuan Hukum",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Bantuan%20Hukum.pdf"
+    },
+    {
+        "name": "Benda Cagar Budaya",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Benda%20Cagar%20Budaya.pdf"
+    },
+    {
+        "name": "Cagar Budaya",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Cagar%20Budaya.pdf"
+    },
+    {
+        "name": "Fidusia",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Fidusia.pdf"
+    },
+    {
+        "name": "Hak Asasi Manusia",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Hak%20Asasi%20Manusia.pdf"
+    },
+    {
+        "name": "Hukum Disiplin Militer",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Hukum%20Disiplin%20Militer.pdf"
+    },
+    {
+        "name": "ITE",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/ITE.pdf"
+    },
+    {
+        "name": "Industri Pertahanan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Industri%20Pertahanan.pdf"
+    },
+    {
+        "name": "Informasi dan Transaksi Elektronik (ITE) baru",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Informasi%20dan%20Transaksi%20Elektronik%20%28ITE%29%20baru.pdf"
+    },
+    {
+        "name": "KDRT",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/KDRT.pdf"
+    },
+    {
+        "name": "KUHAP",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/KUHAP.pdf"
+    },
+    {
+        "name": "KUHP 2023",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/KUHP%202023.pdf"
+    },
+    {
+        "name": "KUHP",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/KUHP.pdf"
+    },
+    {
+        "name": "KUHPM",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/KUHPM.pdf"
+    },
+    {
+        "name": "Kehutanan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Kehutanan.pdf"
+    },
+    {
+        "name": "Keimigrasian",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Keimigrasian.pdf"
+    },
+    {
+        "name": "Kemerdekaan Menyampaikan Pendapat di Muka Umum",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Kemerdekaan%20Menyampaikan%20Pendapat%20di%20Muka%20Umum.pdf"
+    },
+    {
+        "name": "Kesehatan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Kesehatan.pdf"
+    },
+    {
+        "name": "Korupsi",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Korupsi.pdf"
+    },
+    {
+        "name": "Lalu Lintas",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Lalu%20Lintas.pdf"
+    },
+    {
+        "name": "Migas",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Migas.pdf"
+    },
+    {
+        "name": "Narkotika",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Narkotika.pdf"
+    },
+    {
+        "name": "Organisasi Kemasyarakatan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Organisasi%20Kemasyarakatan.pdf"
+    },
+    {
+        "name": "Pemberantasan Tindak Pidana Korupsi",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pemberantasan%20Tindak%20Pidana%20Korupsi.pdf"
+    },
+    {
+        "name": "Penanganan Konflik Sosial",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Penanganan%20Konflik%20Sosial.pdf"
+    },
+    {
+        "name": "Pencarian dan Pertolongan (SAR)",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pencarian%20dan%20Pertolongan%20%28SAR%29.pdf"
+    },
+    {
+        "name": "Pencegahan dan Pemberantasan Perusakan Hutan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pencegahan%20dan%20Pemberantasan%20Perusakan%20Hutan.pdf"
+    },
+    {
+        "name": "Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pencegahan%20dan%20Pemberantasan%20Tindak%20Pidana%20Pencucian%20Uang.pdf"
+    },
+    {
+        "name": "Pencegahan dan Pemberantasan Tindak Pidana Pendanaan Terorisme",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pencegahan%20dan%20Pemberantasan%20Tindak%20Pidana%20Pendanaan%20Terorisme.pdf"
+    },
+    {
+        "name": "Penerimaan Negara Bukan Pajak",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Penerimaan%20Negara%20Bukan%20Pajak.pdf"
+    },
+    {
+        "name": "Pengadilan Anak",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pengadilan%20Anak.pdf"
+    },
+    {
+        "name": "Pengadilan Hak Asasi Manusia",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pengadilan%20Hak%20Asasi%20Manusia.pdf"
+    },
+    {
+        "name": "Pengangkatan Pemberhentian Pegawai Negeri Sipil",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pengangkatan%20Pemberhentian%20Pegawai%20Negeri%20Sipil.pdf"
+    },
+    {
+        "name": "Pengelolaan Sumber Daya Nasional Untuk Pertahanan Negara",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pengelolaan%20Sumber%20Daya%20Nasional%20Untuk%20Pertahanan%20Negara.pdf"
+    },
+    {
+        "name": "Pengembangan dan Penguatan Sektor Keuangan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pengembangan%20dan%20Penguatan%20Sektor%20Keuangan.pdf"
+    },
+    {
+        "name": "Pengganti UU No 23 Tahun 2002 ttg Perlindungan Anak",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pengganti%20UU%20No%2023%20Tahun%202002%20ttg%20Perlindungan%20Anak.pdf"
+    },
+    {
+        "name": "Penjaminan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Penjaminan.pdf"
+    },
+    {
+        "name": "Penyelenggaraan Negara Yang Bersih dan Bebas dari KKN",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Penyelenggaraan%20Negara%20Yang%20Bersih%20dan%20Bebas%20dari%20KKN.pdf"
+    },
+    {
+        "name": "Peradilan Militer",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Peradilan%20Militer.pdf"
+    },
+    {
+        "name": "Peradilan Umum",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Peradilan%20Umum.pdf"
+    },
+    {
+        "name": "Perbankan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perbankan.pdf"
+    },
+    {
+        "name": "Perkawinan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perkawinan.pdf"
+    },
+    {
+        "name": "Perkebunan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perkebunan.pdf"
+    },
+    {
+        "name": "Perkoperasian",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perkoperasian.pdf"
+    },
+    {
+        "name": "Perlindungan Saksi Korban",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perlindungan%20Saksi%20Korban.pdf"
+    },
+    {
+        "name": "Perlindungan_Anak",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perlindungan_Anak.pdf"
+    },
+    {
+        "name": "Pertahanan Negara",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pertahanan%20Negara.pdf"
+    },
+    {
+        "name": "Pertambangan Mineral dan Batubara",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pertambangan%20Mineral%20dan%20Batubara.pdf"
+    },
+    {
+        "name": "Perubahan Atas UU No 1 Tahun 1974 ttg Perkawinan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perubahan%20Atas%20UU%20No%201%20Tahun%201974%20ttg%20Perkawinan.pdf"
+    },
+    {
+        "name": "Perubahan Atas UU No 13 Tahun 2006 ttg Perlindungan Saksi dan Korban",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perubahan%20Atas%20UU%20No%2013%20Tahun%202006%20ttg%20Perlindungan%20Saksi%20dan%20Korban.pdf"
+    },
+    {
+        "name": "Perubahan Atas UU No 16 Tahun 2001 ttg Yayasan",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perubahan%20Atas%20UU%20No%2016%20Tahun%202001%20ttg%20Yayasan.pdf"
+    },
+    {
+        "name": "Perubahan Atas UU No 2 Tahun 1986 ttg Peradilan Umum",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perubahan%20Atas%20UU%20No%202%20Tahun%201986%20ttg%20Peradilan%20Umum.pdf"
+    },
+    {
+        "name": "Perubahan Atas UU No 30 Tahun 2002 ttg Komisi Pemberantasan Korupsi",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perubahan%20Atas%20UU%20No%2030%20Tahun%202002%20ttg%20Komisi%20Pemberantasan%20Korupsi.pdf"
+    },
+    {
+        "name": "Perubahan Atas UU RI No 34 Tahun 2004 ttg TNI",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perubahan%20Atas%20UU%20RI%20No%2034%20Tahun%202004%20ttg%20TNI.pdf"
+    },
+    {
+        "name": "Perubahan Ke 3 Atas UU No 6 Tahun 2011 ttg Keimigrasian",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Perubahan%20Ke%203%20Atas%20UU%20No%206%20Tahun%202011%20ttg%20Keimigrasian.pdf"
+    },
+    {
+        "name": "Pornografi",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Pornografi.pdf"
+    },
+    {
+        "name": "Sistem Peradilan Anak",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Sistem%20Peradilan%20Anak.pdf"
+    },
+    {
+        "name": "TNI",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/TNI.pdf"
+    },
+    {
+        "name": "Tindak Pidana Kekerasan Seksual",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Tindak%20Pidana%20Kekerasan%20Seksual.pdf"
+    },
+    {
+        "name": "Tindak Pidana Pencucian Uang",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Tindak%20Pidana%20Pencucian%20Uang.pdf"
+    },
+    {
+        "name": "Tindak Pidana Terorisme",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Tindak%20Pidana%20Terorisme.pdf"
+    },
+    {
+        "name": "Transfer Dana",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Transfer%20Dana.pdf"
+    },
+    {
+        "name": "UU Darurat No 12 Tahun 1951",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/UU%20Darurat%20No%2012%20Tahun%201951.pdf"
+    },
+    {
+        "name": "Veteran RI",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Veteran%20RI.pdf"
+    },
+    {
+        "name": "Wakaf",
+        "category": "undang_undang",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Undang-Undang/Wakaf.pdf"
+    },
+    {
+        "name": "Jukgar Cuti 2018",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukgar%20Cuti%202018.pdf"
+    },
+    {
+        "name": "Jukgar Polisi Militer 2024",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukgar%20Polisi%20Militer%202024.pdf"
+    },
+    {
+        "name": "Jukin Polisi Militer",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukin%20Polisi%20Militer.pdf"
+    },
+    {
+        "name": "Jukmin Garminu TNI AD 2013",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukmin%20Garminu%20TNI%20AD%202013.pdf"
+    },
+    {
+        "name": "Jukmin Lidpamfik",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukmin%20Lidpamfik.pdf"
+    },
+    {
+        "name": "Jukmin Pemberian Cuti Prajurit TNI AD 20014",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukmin%20Pemberian%20Cuti%20Prajurit%20TNI%20AD%2020014.pdf"
+    },
+    {
+        "name": "Jukmin Pengawalan",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukmin%20Pengawalan.pdf"
+    },
+    {
+        "name": "Jukmin Penyidikan",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukmin%20Penyidikan.pdf"
+    },
+    {
+        "name": "Jukmin Rustahmil",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukmin%20Rustahmil.pdf"
+    },
+    {
+        "name": "Juknik Dalwaslat",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknik%20Dalwaslat.pdf"
+    },
+    {
+        "name": "Juknik Patroli Pomad",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknik%20Patroli%20Pomad.pdf"
+    },
+    {
+        "name": "Juknik Pemberhentian Dengan Tidak Hormat 2008",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknik%20Pemberhentian%20Dengan%20Tidak%20Hormat%202008.pdf"
+    },
+    {
+        "name": "Juknik Penegakan Disiplin dan Tata Tertib",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknik%20Penegakan%20Disiplin%20dan%20Tata%20Tertib.pdf"
+    },
+    {
+        "name": "Juknik Rik Labkrim",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknik%20Rik%20Labkrim.pdf"
+    },
+    {
+        "name": "Juknik Tes Kesemaptaan",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknik%20Tes%20Kesemaptaan.pdf"
+    },
+    {
+        "name": "Juknik Tindakan di TKP",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknik%20Tindakan%20di%20TKP.pdf"
+    },
+    {
+        "name": "Juknis Binkar Ba Ta 2019",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Binkar%20Ba%20Ta%202019.pdf"
+    },
+    {
+        "name": "Juknis Idik Perkara Pidana",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Idik%20Perkara%20Pidana.pdf"
+    },
+    {
+        "name": "Juknis Kap Wabku 2020",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Kap%20Wabku%202020.pdf"
+    },
+    {
+        "name": "Juknis Kap Wabku 2024",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Kap%20Wabku%202024.pdf"
+    },
+    {
+        "name": "Juknis Kap Wabku",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Kap%20Wabku.pdf"
+    },
+    {
+        "name": "Juknis Lid Orang dan Barang",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Lid%20Orang%20dan%20Barang.pdf"
+    },
+    {
+        "name": "Juknis Lidkrim",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Lidkrim.pdf"
+    },
+    {
+        "name": "Juknis Min Operasi Gaktib",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Min%20Operasi%20Gaktib.pdf"
+    },
+    {
+        "name": "Juknis Operasi Gaktib",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Operasi%20Gaktib.pdf"
+    },
+    {
+        "name": "Juknis Ops Yustisi",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Ops%20Yustisi.pdf"
+    },
+    {
+        "name": "Juknis PPKM TNI AD",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20PPKM%20TNI%20AD.pdf"
+    },
+    {
+        "name": "Juknis Pengamanan Fisik",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Pengamanan%20Fisik.pdf"
+    },
+    {
+        "name": "Juknis Pengawalan Bermotor",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Pengawalan%20Bermotor.pdf"
+    },
+    {
+        "name": "Juknis Pengawasan Lain 2020",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Pengawasan%20Lain%202020.pdf"
+    },
+    {
+        "name": "Juknis Pengelolaan Barang Bukti",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Pengelolaan%20Barang%20Bukti.pdf"
+    },
+    {
+        "name": "Juknis Pengembangan Gelar Satuan",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Pengembangan%20Gelar%20Satuan.pdf"
+    },
+    {
+        "name": "Juknis Penguncian Gudang",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Penguncian%20Gudang.pdf"
+    },
+    {
+        "name": "Juknis Penyelenggaraan SIM TNI AD",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Penyelenggaraan%20SIM%20TNI%20AD.pdf"
+    },
+    {
+        "name": "Juknis Penyelesaian Gar Lalin Tertentu",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Penyelesaian%20Gar%20Lalin%20Tertentu.pdf"
+    },
+    {
+        "name": "Juknis Penyelidikan",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Penyelidikan.pdf"
+    },
+    {
+        "name": "Juknis Penyidikan Perkara Pidana",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Penyidikan%20Perkara%20Pidana.pdf"
+    },
+    {
+        "name": "Juknis Provoost AD",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Provoost%20AD.pdf"
+    },
+    {
+        "name": "Juknis Razia Pomad",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Razia%20Pomad.pdf"
+    },
+    {
+        "name": "Juknis Renmil",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Renmil.pdf"
+    },
+    {
+        "name": "Juknis Reskrim",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Reskrim.pdf"
+    },
+    {
+        "name": "Juknis Rustahkaya",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Rustahkaya.pdf"
+    },
+    {
+        "name": "Juknis Rustahmil",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Rustahmil.pdf"
+    },
+    {
+        "name": "Juknis Rustaper dan Interniran Perang",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Rustaper%20dan%20Interniran%20Perang.pdf"
+    },
+    {
+        "name": "Juknis Tata Cara Susun Dokumen",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Tata%20Cara%20Susun%20Dokumen.pdf"
+    },
+    {
+        "name": "Juknis Tradisi Korps Pomad",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Tradisi%20Korps%20Pomad.pdf"
+    },
+    {
+        "name": "Juknis Tulisan Dinas 2016",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Tulisan%20Dinas%202016.pdf"
+    },
+    {
+        "name": "Juknis Unit K9",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Unit%20K9.pdf"
+    },
+    {
+        "name": "Juknis Verifikasi 2014",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Verifikasi%202014.pdf"
+    },
+    {
+        "name": "Juknis Walmor VVIP",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Walmor%20VVIP.pdf"
+    },
+    {
+        "name": "Juknis Walprotneg",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Juknis%20Walprotneg.pdf"
+    },
+    {
+        "name": "Jukref Binsat",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukref%20Binsat.pdf"
+    },
+    {
+        "name": "Jukref PUDD TNI AD 2020",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukref%20PUDD%20TNI%20AD%202020.pdf"
+    },
+    {
+        "name": "Jukref Tata Tulismil TNI 2022",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/Jukref%20Tata%20Tulismil%20TNI%202022.pdf"
+    },
+    {
+        "name": "ORGAS Denpom Divif",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/ORGAS%20Denpom%20Divif.pdf"
+    },
+    {
+        "name": "ORGAS POM Kostrad",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/ORGAS%20POM%20Kostrad.pdf"
+    },
+    {
+        "name": "ORGAS Pomdam",
+        "category": "buku_petunjuk",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Buku%20Petunjuk/ORGAS%20Pomdam.pdf"
+    },
+    {
+        "name": "Administrasi Prajurit TNI",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Administrasi%20Prajurit%20TNI.pdf"
+    },
+    {
+        "name": "Buku Saku Netralitas TNI",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Buku%20Saku%20Netralitas%20TNI.pdf"
+    },
+    {
+        "name": "Dewan Kehormatan Perwira",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Dewan%20Kehormatan%20Perwira.pdf"
+    },
+    {
+        "name": "Disiplin PNS",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Disiplin%20PNS.pdf"
+    },
+    {
+        "name": "Doktrin Latihan",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Doktrin%20Latihan.pdf"
+    },
+    {
+        "name": "GAM Dinas TNI",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/GAM%20Dinas%20TNI.pdf"
+    },
+    {
+        "name": "Keankuman",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Keankuman.pdf"
+    },
+    {
+        "name": "Kepangkatan Prajurit TNI AD",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Kepangkatan%20Prajurit%20TNI%20AD.pdf"
+    },
+    {
+        "name": "Kepaperaan",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Kepaperaan.pdf"
+    },
+    {
+        "name": "PBB TNI 2018",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/PBB%20TNI%202018.pdf"
+    },
+    {
+        "name": "PUDD TNI",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/PUDD%20TNI.pdf"
+    },
+    {
+        "name": "Pedoman Operasi Yustisi",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Pedoman%20Operasi%20Yustisi.pdf"
+    },
+    {
+        "name": "Pedoman Penilaian Beban Kerja TNI AD",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Pedoman%20Penilaian%20Beban%20Kerja%20TNI%20AD.pdf"
+    },
+    {
+        "name": "Pedoman Proglatsi Sistem Blok",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Pedoman%20Proglatsi%20Sistem%20Blok.pdf"
+    },
+    {
+        "name": "Pedoman Senam Sparko",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Pedoman%20Senam%20Sparko.pdf"
+    },
+    {
+        "name": "Pemberhentian dari Jabatan Sementara (Schorsing)",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Pemberhentian%20dari%20Jabatan%20Sementara%20%28Schorsing%29.pdf"
+    },
+    {
+        "name": "Pemberian Gelar dan Tahor",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Pemberian%20Gelar%20dan%20Tahor.pdf"
+    },
+    {
+        "name": "Pemberian Tunkin Prajurit dan PNS TNI AD",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Pemberian%20Tunkin%20Prajurit%20dan%20PNS%20TNI%20AD.pdf"
+    },
+    {
+        "name": "Penyesuaian Batasan Tipiring dan Jumlah Denda dalam KUHP",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Penyesuaian%20Batasan%20Tipiring%20dan%20Jumlah%20Denda%20dalam%20KUHP.pdf"
+    },
+    {
+        "name": "Per Men Keu ttg Penataan BMN TNI",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Per%20Men%20Keu%20ttg%20Penataan%20BMN%20TNI.pdf"
+    },
+    {
+        "name": "Peraturan Disiplin Militer",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Peraturan%20Disiplin%20Militer.pdf"
+    },
+    {
+        "name": "Peraturan Penghormatan Militer TNI",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Peraturan%20Penghormatan%20Militer%20TNI.pdf"
+    },
+    {
+        "name": "Perubahan PP No 32 Tahun 1999 ttg Syarat dan Tata Cara Pelaks Hak Warga Binmas",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Perubahan%20PP%20No%2032%20Tahun%201999%20ttg%20Syarat%20dan%20Tata%20Cara%20Pelaks%20Hak%20Warga%20Binmas.pdf"
+    },
+    {
+        "name": "Prosedur Perceraian Prajurit TNI AD",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Prosedur%20Perceraian%20Prajurit%20TNI%20AD.pdf"
+    },
+    {
+        "name": "TUM TNI 2020",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/TUM%20TNI%202020.pdf"
+    },
+    {
+        "name": "TUM TNI",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/TUM%20TNI.pdf"
+    },
+    {
+        "name": "Tata Cara Penggunaan Tongkat Komando",
+        "category": "peraturan_lain",
+        "url": "https://raw.githubusercontent.com/rzoel2000-crypto/pdf-assets/main/Peraturan%20Lain/Tata%20Cara%20Penggunaan%20Tongkat%20Komando.pdf"
+    }
+]
